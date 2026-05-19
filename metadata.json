@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Budaya PKN",
+  "description": "Game edukasi PKN Kelas 2 SD bertema budaya Indonesia dengan karakter anak berbaju adat Sunda, menggunakan metode MDLC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

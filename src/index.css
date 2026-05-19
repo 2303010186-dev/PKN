@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Quicksand", ui-sans-serif, system-ui, sans-serif;
+  --color-natural-bg: #FDF6E3;
+  --color-natural-brown: #4A3728;
+  --color-natural-header: #8B4513;
+  --color-natural-accent: #D2691E;
+  --color-natural-emerald: #10B981;
+  --color-natural-amber: #FBBF24;
+  --color-natural-sky: #38BDF8;
+  --color-natural-cinnabar: #E2725B;
+}
+
+@layer base {
+  body {
+    @apply antialiased text-natural-brown font-sans bg-natural-bg;
+  }
+}
